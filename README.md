@@ -1,6 +1,6 @@
 # 离开的人们 Zero -Prologue-
 
-> 您需要最新的 AIR Runtime：[Air](https://airsdk.harman.com/download) 才能启动游戏，请点击上述链接下载。
+> 您需要最新的 AIR Runtime：[Air](https://airsdk.harman.com/runtime) 才能启动游戏，请点击上述链接下载。
 
 1. 此处发布离开的人们 Zero -Prologue- 汉化补丁；
 2. `.swf` Patch 脚本；
